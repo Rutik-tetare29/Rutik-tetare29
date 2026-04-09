@@ -100,7 +100,7 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/rutik-tetare">
+  <a href="https://www.linkedin.com/in/rutik-tetare-3154b3281/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Rutik-tetare29">
